@@ -8,8 +8,6 @@ This repository contains the source code for a tribute webpage dedicated to Edwa
 - [Installation](#installation)
 - [Usage](#usage)
 - [File Structure](#file-structure)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
