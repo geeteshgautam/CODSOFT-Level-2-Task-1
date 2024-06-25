@@ -4,17 +4,12 @@ This repository contains the source code for a tribute webpage dedicated to Edwa
 
 ## Table of Contents
 
-- [Demo](#demo)
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
 - [File Structure](#file-structure)
 - [Contributing](#contributing)
 - [License](#license)
-
-## Demo
-
-Check out the live demo [here](https://your-live-demo-link.com).
 
 ## Features
 
