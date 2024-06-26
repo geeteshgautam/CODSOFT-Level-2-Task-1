@@ -11,6 +11,7 @@ This repository contains the source code for a tribute webpage dedicated to Edwa
 
 ## Features
 
+-Splash screen with Edward Witten's picture
 - Animated text elements that fly in or fade in.
 - Responsive design for optimal viewing on different devices.
 - Clean and modern layout with gradient backgrounds and interactive image elements.
